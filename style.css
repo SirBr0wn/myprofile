@@ -85,20 +85,7 @@ h2 {
 
 
 /* CSS untuk animasi */
-@media (max-width: 768px) {
-  .animate-left,
-  .animate-right {
-    text-align: center; 
-  }
 
-  .vertical-line {
-    display: none; 
-  }
-
-  .text-center {
-    margin-bottom: 2rem; /
-  }
-}
 
 @keyframes float {
   0%,
